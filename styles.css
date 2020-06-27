@@ -12,17 +12,10 @@
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  background: #252525;
+  background: black;
 }
 
-.progress-barmeter {
-    background-color: white;
-    border-radius: 20px;
-    width: 500px;
-    height: 1.5em;
-  }
-  
-  .progress-bar {
-    width: 500px;
-    
-  }
+progress {
+  width: 400px;
+  height: 20px;
+}
